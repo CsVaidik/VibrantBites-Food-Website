@@ -12,8 +12,10 @@ VibrantBites is a beautifully designed food website built with **HTML & CSS**, o
 - **HTML** – Structure of the website
 - **CSS** – Styling and layout
 
-## 📸 Screenshots
-![VibrantBites Preview](#) *(Add screenshot URL here)*
+## 📸 Glimpse of My website
+![Demo GIF](video-demo.gif)
+
+
 
 ## 🔧 Installation & Usage
 1. Clone the repository:
